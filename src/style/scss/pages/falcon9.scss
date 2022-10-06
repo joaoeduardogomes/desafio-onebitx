@@ -1,0 +1,125 @@
+.tabela {
+    max-width: 550px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+th {
+    font-weight: 600;
+    font-variant: small-caps;
+}
+td {
+    text-align: right;
+}
+.texto {
+    max-width: 500px;
+    font-size: 1.2rem;
+}
+
+#falcon-secao1{
+    background-image: url('../../img/falcon9/01.jpg');
+    text-align: center;
+
+    h2 {
+        font: {
+            size: 6rem;
+            weight: 600;
+        }
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+
+    .seta {
+        margin-left: 0;
+    }
+}
+
+#falcon-numeros {
+    h2 {
+        font: {
+            size: 5rem;
+            weight: 500;
+        }
+    }
+
+    p {
+        font-size: 1.3rem;
+    }
+}
+
+#falcon-secao2 {
+    background-image: url('../../img/falcon9/02.jpg');
+    background-position: center top;
+
+    .texto {
+        text-align: left;
+        max-width: 600px;
+        margin-top: 6rem;
+        font-size: 1.3rem;
+        line-height: 3.2rem;
+    }
+}
+
+#falcon-secao3 {
+    .item-carrossel {
+        padding-top: 10%;
+        padding-left: 15%;
+        min-height: 100vh;
+        background: {
+            size: cover;
+            repeat: no-repeat;
+            position: center;
+        }
+        h4 {
+            font-size: 1.2rem;
+            font-weight: 300;
+        }
+    }
+    .controle-carrossel {
+        background-color: black;
+        border-radius: 50%;
+        padding: 1.5rem;
+    }
+
+    #carrossel-1 {
+        background-image: url('../../img/falcon9/03.jpg');
+    }
+    #carrossel-2 {
+        background-image: url('../../img/falcon9/04.jpg');
+    }
+    #carrossel-3 {
+        background-image: url('../../img/falcon9/05.jpg');
+    }
+    #carrossel-4 {
+        background-image: url('../../img/falcon9/06.jpg');
+    }
+    #carrossel-5 {
+        background-image: url('../../img/falcon9/07.jpg');
+    }
+}
+
+#falcon-secao4 {
+    background-image: url('../../img/falcon9/08.jpg');
+
+    div:first-child {
+        margin-top: 8rem;
+    }
+}
+
+#falcon-secao5 {
+    img {
+        max-width: 1920px;
+        height: 100vh;
+        object-fit: fill;
+        object-position: center;
+        margin: auto;
+    }
+    p.texto {
+        background-color: $cor-fundo-transparente;
+        color: $cor-texto;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 2rem;
+        padding: 0.5rem;
+    }
+}
