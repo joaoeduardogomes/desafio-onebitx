@@ -1,6 +1,9 @@
 # 👨🏽‍💻 OneBitX Challenge
 This project consists of creating a SpaceX-like website with space content.
 
+![image](https://github.com/joaoeduardogomes/desafio-onebitx/assets/86986385/bf482da7-7573-4b01-99ab-1ca6fab63128)
+
+
 ## 💡 Project Goal
 The goal of this project is to practice using HTML, CSS, SCSS, and Bootstrap by creating a functional website.
 
