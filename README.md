@@ -1,13 +1,13 @@
-# 👨🏽‍💻 OneBitX Challenge
+# OneBitX Challenge
 This project consists of creating a SpaceX-like website with space content.
 
 ![image](https://github.com/joaoeduardogomes/desafio-onebitx/assets/86986385/bf482da7-7573-4b01-99ab-1ca6fab63128)
 
 
-## 💡 Project Goal
+## Project Goal
 The goal of this project is to practice using HTML, CSS, SCSS, and Bootstrap by creating a functional website.
 
-## 🤖 Tecnologies
+## Tecnologies
 **Front-end:** <br>
 
 ![HTML](https://img.shields.io/badge/HTML-%20?style=for-the-badge&color=orange) 
@@ -20,3 +20,6 @@ The goal of this project is to practice using HTML, CSS, SCSS, and Bootstrap by 
 You can easily view the website by visiting the GitHub Pages link: [OneBitX](https://joaoeduardogomes.github.io/desafio-onebitx/)
 
 Feel free to explore the different sections of the website.
+
+## License
+![MIT license](https://img.shields.io/badge/License-MIT-%20?link=https%3A%2F%2Fchoosealicense.com%2Flicenses%2Fmit%2F)
