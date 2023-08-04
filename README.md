@@ -1,3 +1,7 @@
+### Project language: 🇧🇷
+
+---
+
 # OneBitX Challenge
 This project consists of creating a SpaceX-like website with space content.
 
